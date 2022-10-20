@@ -1,0 +1,11 @@
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\bin\Debug\LosowankoMniejWiecej.exe.config
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\bin\Debug\LosowankoMniejWiecej.exe
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\bin\Debug\LosowankoMniejWiecej.pdb
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.csproj.AssemblyReference.cache
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.csproj.SuggestedBindingRedirects.cache
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.Form1.resources
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.Properties.Resources.resources
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.csproj.GenerateResource.cache
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.csproj.CoreCompileInputs.cache
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.exe
+\\zstsrv\Jarosz.Eryk$$\desktop\LosowankoMniejWiecej\LosowankoMniejWiecej\obj\Debug\LosowankoMniejWiecej.pdb
