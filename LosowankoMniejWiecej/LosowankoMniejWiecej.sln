@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LosowankoMniejWiecej", "LosowankoMniejWiecej\LosowankoMniejWiecej.csproj", "{1CE624C0-5BE2-498D-BFCA-706EE534BB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE624C0-5BE2-498D-BFCA-706EE534BB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE624C0-5BE2-498D-BFCA-706EE534BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE624C0-5BE2-498D-BFCA-706EE534BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE624C0-5BE2-498D-BFCA-706EE534BB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A841738-260F-4079-8D32-833C6EC00381}
+	EndGlobalSection
+EndGlobal
